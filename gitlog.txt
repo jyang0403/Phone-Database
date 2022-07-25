@@ -1,0 +1,318 @@
+commit e68786a55a5b6394feb61f665db452c6c6afa915
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Tue Jul 12 10:08:31 2022 -0400
+
+    fixed printing bug and made improvements to error checking and reading/saving to/from file
+
+commit b11ffe0e1b8b26c1d299fc74cc48a2eba5b59db6
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Tue Jul 12 09:41:12 2022 -0400
+
+    fixed order of printing phone numbers: trying second submission
+
+commit dc705b8f849faa100839cd3289c07a596c010e75
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Mon Jul 11 13:38:00 2022 -0400
+
+    fixed reading/restoring from file bug and completed testing. going for first submission
+
+commit 132387b880e7923c8c20c81322cd7ca7e425429a
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Mon Jul 11 11:28:39 2022 -0400
+
+    completed ex24, stuck on ex25. research stringstreams
+
+commit 7ef3c09558dc77f254ae4e3e4b703e443c5312ae
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Mon Jul 11 10:30:58 2022 -0400
+
+    added error checking for restoring to file
+
+commit afa557566b858b9a5bedc37a383391c3edfb8a7c
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Sun Jul 10 11:48:57 2022 -0400
+
+    finished restore from file: need to do final tests
+
+commit a47dfaacaf4f5c86139acf4ec37897eab3cb15a4
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Sat Jul 9 21:57:47 2022 -0400
+
+    partially completed restoring from file: how do I error check it?
+
+commit 92c09e2df72cf987fec512df00ee71e77aaef0f2
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Sat Jul 9 19:20:55 2022 -0400
+
+    finished save to file, now need to complete read
+
+commit 2e10e90deea6ab80ad0a95a5346b27521c94099a
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jul 8 21:00:48 2022 -0400
+
+    only need to finish file I/O functions + debug + leave comments
+
+commit 6a0fc0ed0f52ed5b1ae9b0dee8c85cc505ebe6ca
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jul 8 12:14:10 2022 -0400
+
+    exercise 24 added but unfinished
+
+commit 8715c96b2176aabb34bac973e66b3f98140a4965
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jul 8 11:25:39 2022 -0400
+
+    created functions to create and check phone numebers, needs to be error checked
+
+commit 5c418c8b9b59ad83c523607a046e67e45d254c86
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jul 8 11:08:39 2022 -0400
+
+    some progress on ex23: segfault for some reason
+
+commit 40151ee5cc877cf3c6c1141c04e99a3e4c102ce6
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Thu Jul 7 20:01:12 2022 -0400
+
+    a lot of progress on hw5: finished about half of the functions. figuring out c++ mechanics
+
+commit 1ba10c771c4ecb39ee5fb0b852d49a8a115abcb5
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Sat Jul 2 17:19:35 2022 -0400
+
+    partially finished ex 18, weird segfault with strlist?
+
+commit 244bf2eef1389794a8bc89e9a8b444b9e0d14a4a
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Sat Jul 2 16:31:42 2022 -0400
+
+    finished ex17
+
+commit fc34bf9ee45c13d482bbad2d41e45a45990cd0ed
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Wed Jun 22 12:08:11 2022 -0400
+
+    some exercises
+
+commit 9f8f6c8ad09583d3cc9f1180fb0a13fa066abd2c
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Tue Jun 21 13:20:56 2022 -0400
+
+    added new lines to print functions hw3
+
+commit 98e321ea0bfe65b4848e8f3d5b1af540bfd3fd25
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Sat Jun 18 23:45:09 2022 -0400
+
+    submission failed, trying again with new error messages
+
+commit 8ef0d001c73b6c532ce4ad329fc2e6e35a39adf3
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Sat Jun 18 23:34:29 2022 -0400
+
+    finished error checking: now testing first submission
+
+commit ba2381678fca27c5113aebbfa6b09153ca73c6c0
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jun 17 11:10:10 2022 -0400
+
+    more progress on hw3: Makefile and all functions work as intended: now do error checking
+
+commit 7c461086a2a566450de5c43cc15bcb8b13f3fd00
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Wed Jun 15 13:55:32 2022 -0400
+
+    worked on hw3 algorithm and print messages; need more work done on all aspects
+
+commit b19e53eabd6bf15ea5e4a39c86e990591bcb886b
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Wed Jun 15 11:06:05 2022 -0400
+
+    working on functions for hw3: need to figure out maze solution algorithm
+
+commit 1a9c1744dbb8256aa481c4ce416a6b742e340406
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Wed Jun 15 11:05:24 2022 -0400
+
+    progress on exercise 9
+
+commit c81014a9ada5d42ec3ec72b79e1b9c9046eebf23
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Mon Jun 13 12:36:54 2022 -0400
+
+    ex08 and experimenting with separate compilation, makefile
+
+commit 38079e6281b7759ae5f2eaad50dde306424ef86b
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Mon Jun 13 11:18:28 2022 -0400
+
+    finished binary search
+
+commit 2805dfc9a13715a79a7b8ed7d80f6ada46679b08
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Mon Jun 13 11:07:25 2022 -0400
+
+    partially completing ex07: need to finish binary search
+
+commit 1eef69cbb9cc0412cf94230d8958d67c7c1d71b8
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Mon Jun 13 11:06:35 2022 -0400
+
+    uploading hw3 starter code
+
+commit 991945f80426c7a269450fec146010a19956f5cb
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jun 10 12:17:12 2022 -0400
+
+    partially completing ex06
+
+commit 7033c027075fd52a20ac29febece920f347fcf42
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jun 10 11:15:55 2022 -0400
+
+    partially completed ex5: still need count3.c
+
+commit 4986fc378cadd4cdb32833695b38db4b65c33829
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Fri Jun 10 10:55:31 2022 -0400
+
+    added exercise 5 folder and files
+
+commit d274c74f3fdbd9a57ee2dce2808da6f809aeebe3
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Thu Jun 9 13:49:33 2022 -0400
+
+    fixed minor printing error
+
+commit c027ab91eeb4fea1edbdf221c02391bef447b06d
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Thu Jun 9 13:44:19 2022 -0400
+
+    finished checking edge casesand adding comments, now going to test submission
+
+commit bae61b7411891217dee5108c01aba3723b4164e9
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Wed Jun 8 11:57:33 2022 -0400
+
+    adding exercise folder
+
+commit e9fb6dafb265eada1830e20649ccc880076f1a6d
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Wed Jun 8 10:57:42 2022 -0400
+
+    updated README
+
+commit 986ae92ca02135cb39336c723981f087cecfaf23
+Author: Jiashu Yang <jyang166@jhu.edu>
+Date:   Wed Jun 8 10:55:46 2022 -0400
+
+    created README
+
+commit e4d526e953ff20d9492c512d9c350f5f6990e486
+Author: Jiashu <jiashuyang0403@gmail.com>
+Date:   Wed Jun 8 10:41:23 2022 -0400
+
+    bookkeeping / checking hw0, hw1
+
+commit ad4b199114042c468262a740813dbf457ea4c674
+Author: Jiashu <jiashuyang0403@gmail.com>
+Date:   Wed Jun 8 09:16:46 2022 -0400
+
+    more progress on hw1: need to finish checking edge cases
+
+commit 56ddf327485155aec02dfec7229808c1740a51d8
+Merge: 963065f 8d20511
+Author: Jiashu <jiashuyang0403@gmail.com>
+Date:   Tue Jun 7 09:24:07 2022 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-summer-student-jyang166
+
+commit 963065f09c5e4b43eae29b654edfa78af592c150
+Author: Jiashu <jiashuyang0403@gmail.com>
+Date:   Tue Jun 7 09:17:30 2022 -0400
+
+    partially completing hw1
+
+commit 8d2051197a3ffc64069aa6c2a27e0ad76380b476
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:23:51 2022 -0400
+
+    Delete gitlog.txt
+
+commit 7fb4795ea99acc77be4e9eb3e3e82c146a2e3db4
+Author: Jiashu <jiashuyang0403@gmail.com>
+Date:   Mon Jun 6 13:21:05 2022 -0400
+
+    reuploading
+
+commit fbd427bf439b63e316fbbb1c0204b96b33a290d8
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:17:56 2022 -0400
+
+    Delete two.c
+
+commit b944a87857c5bc3de20eed1900c00565903ae91d
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:17:49 2022 -0400
+
+    Delete three.c
+
+commit 9f6ffee1ce0f552f85f5134ba7afa343367d16d7
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:17:43 2022 -0400
+
+    Delete one.c
+
+commit 2262a5f47473c23a9f80be9b61cd0d12280052b1
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:17:29 2022 -0400
+
+    Create s
+
+commit 692d2b39f4d7f894912c9d3fa02289223b64d04a
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:17:15 2022 -0400
+
+    Delete hw1
+
+commit b7e8b1c4dbb564abfae5e2ce639c579b061ec87a
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:17:04 2022 -0400
+
+    Create hw1
+
+commit 4032ab527437a9d023d742826437f76ca3a8a17c
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:16:24 2022 -0400
+
+    Delete s
+
+commit 3cced4c15f965c56ef6ca288c366c7448c72fb52
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 13:15:56 2022 -0400
+
+    Create s
+
+commit 1aa6e8772bd5ec86f4c9f3b390071c9240735c43
+Author: Jiashu <jiashuyang0403@gmail.com>
+Date:   Mon Jun 6 13:12:50 2022 -0400
+
+    adding homework folder
+
+commit c15ba05ca7f2807efe17461ec77b8d8f69c8bf63
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 12:51:20 2022 -0400
+
+    Delete homework
+
+commit 503c88842fa92d06d4bddd0c3f2b889a4f86b637
+Author: jyang0403 <100871205+jyang0403@users.noreply.github.com>
+Date:   Mon Jun 6 12:50:53 2022 -0400
+
+    Create homework
+
+commit 194c75fac43af343773ba50ba07711c6747c1e78
+Author: Jiashu <jiashuyang0403@gmail.com>
+Date:   Mon Jun 6 10:13:31 2022 -0400
+
+    hw0_files

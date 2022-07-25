@@ -1,0 +1,10 @@
+50F339
+jyang166
+Jiashu Yang
+
+Info:
+My homework 5 consists of separate functions for each kind of command used by the phone database, and a few helper functions that assist in checking for error or editing data.
+
+For my program, I decided to go with a map implementation, where each key/value was a separate structure containing information. For example, the Name struct stores all information related to names, and the Phone struct stores all information for phones. This approach made accessing or searching for certain elements slightly more complex, like having to go through some string transformations to check if a name or phone number exists in the database. On the other hand, this made the implementation and accessing data simpler by allowing me to store all my information in one place, which made keeping track of it easier. For example, to store the original inputs for first and last name, I had a string in a Name struct that kept track of it, while simultaneously having the uniform version for the "L" command. 
+One good idea I had for this implementation was to store string arrays in the Phone struct to store the phone numbers, their relative type, and whether a certain type of phone number exists, as I originally intended to use a separate string for each, before realizing that such an implementation would be difficult and cumbersome to use. Another idea was making the save/restore files extremely structured, such that a certain order/number of elements must exist, and if that order is not maintained, then the program can automatically detect an invalid file. Finally, I also utilized an integer to keep track of the database size. This helped me check for errors, as if the size of the database doesn’t increase after inserting a contact, it means the contact already exists, etc.
+
